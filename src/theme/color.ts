@@ -1,0 +1,15 @@
+export default {
+  white: '#FFFFFF',
+  black: '#000000',
+  theme: '#407CE2',
+  light_blue_22: '#223A6A',
+  light_blue_21: '#213359',
+  theme_black: '#221F1F',
+  theme_black_op1: 'rgba(34,31,31,0.1)',
+  light_gray: '#A1A8B0',
+  gray_input: '#F9FAFB',
+  grey_56: '#565656',
+  theme_op1: 'rgba(64, 124, 226,0.1)',
+  light_pink: 'rgba(178,116,140,0.4)',
+  light_yellow: '#FBF0DC',
+};

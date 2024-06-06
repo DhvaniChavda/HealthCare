@@ -1,0 +1,17 @@
+export const Routes = {
+  Splash: 'Splash',
+  Dashboard: 'Dashboard',
+  Home: 'Home',
+  Reports: 'Reports',
+  Notification: 'Notification',
+  Profile: 'Profile',
+  Intro: 'Intro',
+  Welcome: 'Welcome',
+  Register: 'Register',
+  Login: 'Login',
+  TopDoctors: 'TopDoctors',
+  TopDoctorsDetail: 'TopDoctorsDetail',
+  Pharmacy: 'Pharmacy',
+  PharmacyDetail: 'PharmacyDetail',
+  MyCart: 'MyCart',
+};
